@@ -5,7 +5,8 @@
   <a href="https://practicum.yandex.ru/java-developer/?from=catalog" target="_blank">
   <img src="https://github.com/Konstakox/Konstakox/blob/main/yaPracticum_.jfif" height="60"/></a></h2>
 <h2 align="center">понравился Spring boot, Maven, Lombok, Jpa </h2>
-![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Konstakox)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Konstakox)](https://github.com/Konstakox/leetcode-stats)
+
 <!--
 
 [![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username)
