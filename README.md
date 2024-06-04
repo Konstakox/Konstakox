@@ -6,6 +6,9 @@
   <img src="https://github.com/Konstakox/Konstakox/blob/main/yaPracticum_.jfif" height="60"/></a></h2>
 <h2 align="center">Применял Spring boot</h2>
 <!--
+
+[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 ## Hi there 👋
 
 **Konstakox/Konstakox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
