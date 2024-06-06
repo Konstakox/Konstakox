@@ -1,10 +1,10 @@
-<h1 align="center">Привет, меня зовут <a href="https://t.me/ya_konstant" target="_blank">Константин</a> 
+<h3 align="center">Привет, меня зовут <a href="https://t.me/ya_konstant" target="_blank">Константин</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/><br />
-Я изучаю JAVA</h1>
-<h2 align="center">закончил курсы <br />
+Я изучаю JAVA</h3>
+<h3 align="center">закончил курсы <br />
   <a href="https://practicum.yandex.ru/java-developer/?from=catalog" target="_blank">
-  <img src="https://github.com/Konstakox/Konstakox/blob/main/yaPracticum_.jfif" height="60"/></a></h2>
-<h2 align="center">понравился Spring boot, Maven, Lombok, Jpa </h2>
+  <img src="https://github.com/Konstakox/Konstakox/blob/main/yaPracticum_.jfif" height="32"/></a></h3>
+<h3 align="center">понравился Spring boot, Maven, Lombok, Jpa </h3>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Konstakox)](https://github.com/Konstakox/leetcode-stats)
 <!--
