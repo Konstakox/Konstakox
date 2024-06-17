@@ -6,8 +6,9 @@
 <h3 align="center">Использовал Maven, Spring boot, Lombok, JDBC, Jpa, PostgreSQL, Docker, Github</h3>
 <h3 align="center">Занимаюсь самообразованием. Открыт для интересного проекта.</h3>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Konstakox)](https://github.com/Konstakox/leetcode-stats)
 <!--
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Konstakox)](https://github.com/Konstakox/leetcode-stats)
+
 
 [![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
